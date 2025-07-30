@@ -6,5 +6,4 @@
 | Python      | ██████████         |
 | Typescript  | ██████             |
 
-- 🌱 I’m currently studying **Python**
 
