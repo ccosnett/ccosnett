@@ -7,3 +7,10 @@
 | Typescript  | ██████             |
 
 
+Familiar with:
+- Web3 python library
+- Pycharm
+- Cursor
+- Fireblocks
+- Anvil/Foundry (local ethereum node)
+- Ethereum
