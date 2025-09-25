@@ -14,3 +14,7 @@ Familiar with:
 - Fireblocks
 - Anvil/Foundry (local ethereum node)
 - Ethereum
+- Pydantic
+- Pyright
+- uv
+- GitHub Workflows
