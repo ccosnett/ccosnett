@@ -12,8 +12,6 @@ Familiar with:
   - Cursor
   - Claude code.
   - OpenAI codex
-  - pydantic AI
-  - langchain
 - Pycharm
 - Ethereum stack:
   - Web3 python library
@@ -24,3 +22,7 @@ Familiar with:
   - Pyright
   - uv
 - GitHub Workflows
+- LLM-application creation
+  - pydantic AI
+  - langchain
+
