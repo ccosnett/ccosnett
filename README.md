@@ -8,13 +8,19 @@
 
 
 Familiar with:
-- Web3 python library
+- Modern AI-augmented software engineering.
+  - Cursor
+  - Claude code.
+  - OpenAI codex
+  - pydantic AI
+  - langchain
 - Pycharm
-- Cursor
-- Fireblocks
-- Anvil/Foundry (local ethereum node)
-- Ethereum
-- Pydantic
-- Pyright
-- uv
+- Ethereum stack:
+  - Web3 python library
+  - Fireblocks
+  - Anvil/Foundry (local ethereum node)
+- Python stack
+  - Pydantic
+  - Pyright
+  - uv
 - GitHub Workflows
