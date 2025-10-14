@@ -28,4 +28,4 @@ Familiar with:
 
 Proud of:
 
-[Langchain contribution](https://github.com/langchain-ai/langchain/pull/30794/commits/0eeaf691d0bde5b427b916946988ac91f98387af)
+[Langchain contribution](https://github.com/langchain-ai/langchain/pull/30794/commits/0eeaf691d0bde5b427b916946988ac91f98387af) [Compass LangChain Toolkit](https://python.langchain.com/docs/integrations/tools/compass/)
