@@ -26,7 +26,7 @@ Familiar with:
   - pydantic AI
   - langchain
 
-Proud of:
+Selected contributions:
 
 [Mathematica Stack Exchange](https://mathematica.stackexchange.com/users/36681/conor-cosnett)
 
