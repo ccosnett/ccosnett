@@ -34,5 +34,4 @@ Proud of:
 
 People who have inspired me:
 - Douglas Engelbart ->  Augmenting Human Intellect, H-LAM/T, NLS (oN-Line System),
-- 
 
