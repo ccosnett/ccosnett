@@ -20,7 +20,7 @@
 - Python stack
   - Pydantic
   - Pyright
-  - uv
+  - uv, ruff
 - GitHub Workflows
 - LLM-application creation
   - pydantic AI
