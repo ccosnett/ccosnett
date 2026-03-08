@@ -9,9 +9,9 @@
 
 ### Familiar with:
 - Modern AI-augmented software engineering.
-  - Cursor
-  - Claude code.
+  - **claude code**.
   - OpenAI codex
+  - Cursor
 - Pycharm
 - Ethereum stack:
   - Web3 python library
