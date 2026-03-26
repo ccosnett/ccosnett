@@ -1,17 +1,13 @@
-| Skill       | Proficiency        |
-|-------------|--------------------|
-| Mathematica | ████████████       |
-| Linux       | ██████████         |
-| SQL         | █████████          |
-| Python      | ██████████         |
-| Typescript  | ██████             |
+*In December 2025, LLM agent capabilities crossed a threshold of coherence and caused a phase shift in software engineering.
+The role changed. You no longer write code. You communicate intent to agents and delegate macro-actions across parallel agent harnesses. The bottleneck is now your ability to formulate the next task.*
 
+In 2026 I am mastering the new paradigm: agent orchestration, AutoResearch, the loopy era of self-improving systems.
+Onward toward the singularity.
 
 ### Familiar with:
 - Modern AI-augmented software engineering.
   - **claude code**.
   - OpenAI codex
-  - Cursor
 - Pycharm
 - Ethereum stack:
   - Web3 python library
