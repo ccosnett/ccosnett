@@ -6,7 +6,7 @@ Onward toward the singularity.
 
 ### Familiar with:
 - Modern AI-augmented software engineering.
-  - **claude code**.
+  - **Claude Code**.
   - OpenAI codex
 - Pycharm
 - Ethereum stack:
