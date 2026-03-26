@@ -8,19 +8,13 @@ Onward toward the singularity.
 - Modern AI-augmented software engineering.
   - **Claude Code**.
   - OpenAI codex
-- Pycharm
-- Ethereum stack:
-  - Web3 python library
-  - Fireblocks
-  - Anvil/Foundry (local ethereum node)
 - Python stack
   - Pydantic
   - Pyright
   - uv, ruff, ty
 - GitHub Workflows
-- LLM-application creation
-  - pydantic AI
-  - langchain
+- Wolfram Mathematica
+- Ethereum
 
 ### Selected contributions:
 
