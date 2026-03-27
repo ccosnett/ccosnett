@@ -14,7 +14,6 @@ Onward toward the singularity.
 ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### Selected contributions:
 
