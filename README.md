@@ -5,16 +5,15 @@ In 2026 I am mastering the new paradigm: agent orchestration, AutoResearch, the 
 Onward toward the singularity.
 
 ### Familiar with:
-- Modern AI-augmented software engineering.
-  - **Claude Code**.
-  - OpenAI codex
-- Python stack
-  - Pydantic
-  - Pyright
-  - uv, ruff, ty
-- GitHub Workflows
-- Wolfram Mathematica
-- Ethereum
+
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Selected contributions:
 
