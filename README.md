@@ -7,7 +7,7 @@ Onward toward the singularity.
 ### Familiar with:
 - Modern AI-augmented software engineering.
   - **Claude Code**.
-  - OpenAI codex
+  - OpenAI Codex
 - Python stack
   - Pydantic
   - Pyright
