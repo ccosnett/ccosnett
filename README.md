@@ -9,9 +9,9 @@ Onward toward the singularity.
   - **Claude Code**.
   - OpenAI Codex
 - Python stack
-  - Pydantic
+  - Pydantic, Pydantic AI, Logfire
   - Pyright
-  - uv, ruff, ty
+  - Astral: uv, ruff, ty
 - GitHub Workflows
 - Wolfram Mathematica
 - Ethereum
