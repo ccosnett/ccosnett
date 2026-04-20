@@ -15,6 +15,7 @@ Onward toward the singularity.
 - GitHub Workflows
 - Wolfram Mathematica
 - Ethereum
+- Gen AI
 
 ### Selected contributions:
 
