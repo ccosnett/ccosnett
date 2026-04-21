@@ -5,13 +5,13 @@ In 2026 I am mastering the new paradigm: agent orchestration, AutoResearch, the 
 Onward toward the singularity.
 
 ### Familiar with:
-- Modern AI-augmented software engineering.
+- AI-augmented software engineering.
   - **Claude Code**.
   - OpenAI Codex
 - Python stack
   - Pydantic, Pydantic AI, Logfire
-  - Pyright
   - Astral: uv, ruff, ty
+  - FastAPI
 - GitHub Workflows
 - Wolfram Mathematica
 - Ethereum
