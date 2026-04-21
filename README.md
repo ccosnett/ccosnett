@@ -22,5 +22,5 @@ Onward toward the singularity.
   - [Compass LangChain Toolkit](https://python.langchain.com/docs/integrations/tools/compass/)
 
 ### People who have inspired me:
-- Douglas Engelbart ->  Augmenting Human Intellect, H-LAM/T, NLS (oN-Line System),
+- Douglas Engelbart → Augmenting Human Intellect, H-LAM/T, NLS (oN-Line System),
 
