@@ -13,7 +13,6 @@ Onward toward the singularity.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100?style=flat-square&logo=wolfram-mathematica&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Selected contributions:
 
